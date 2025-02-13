@@ -185,4 +185,4 @@ filtered_Aviation_data
 
 
 # Recommendations and Conclusion
-The model 777 is highly recommended as it has had the highest number of uninjured passengers
+The model 737 is highly recommended as it has had the highest number of uninjured passengers
